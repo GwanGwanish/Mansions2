@@ -1,0 +1,404 @@
+.,Portuguese
+quest.name,Passos na Escuridão (v1.5) (Apenas Base) (Nano)
+quest.description,Após a loucura na mansão do Sr. Vanderbilt, as circunstâncias em sua cidade natal de Arkham foram de mal a pior. incêndios repentinos e outros acidentes inexplicáveis. Os problemas aumentam com cada dia que passa. Os moradores começaram a chamá-lo de "Os Problemas". \n\nRetornando tarde da noite para seu escritório, você o encontra saqueado. Temendo o pior, você partiu a pé para casa ... ou em qualquer local seguro perto \n cenário \n Este é um cenário de "nano" - curto em tempo e mapa. Investigadores recomendados 3.
+EventStart.text,Um terrível mal tem dominado a sua cidade natal. Seu escritório está em ruínas. Perseguidores uivam no escuro. Eles estão fora de vista, mas você sente como se todos os olhos estejam sobre você. Ninguém é confiável. \n\nAdicione Beco 1 e Esquina 1, como indicado.
+EventStart.button1,Continuar
+EventStart2.text,Coloque os investigadores neste espaço. \n\nAdicione os marcadores de parede como indicado.
+EventStart2.button1,Continuar
+EventStart3.text,Cada investigador começa com 2 marcadores de Pista. \n\nAdicione os marcadores de avistamento e procura como indicado \n\nO seguinte texto somente deve ser lido por {rnd:hero}.
+EventStart3.button1,Acionar próxima tela
+TokenGarbage1.text,Um pedaço de papel está voando pela rua em sua direção, caindo a seus pés.
+TokenGarbage1.button1,{action} Ler o papel.
+EventGarbage2.text,Uma nota é escrita em um papel de maneira infantil como rabisco: "Hoje à noite nós não esperar mais!" Ler o deixa inquieto. Você amassa a nota e joga no chão. \n\nGanhe 1 marcador de Pista. Remova este marcador de procura.
+EventGarbage2.button1,Continuar
+TokenSight1.button1,Explorar para o Leste
+EventRevealStoreFront.text,Você vira a esquina e encontra-se em pé na frente de "Mercadorias em Geral de Al". A loja esta fechada agora anoite. Dado os acontecimentos que ocorreram nas últimas 24 horas, você suspeita que ela nunca reabrira. Ela deve fornecer abrigo adequado. \n\n Adicione o mapa Rua Frontal como indicado. Remova este marcador de avistamento.
+TokenSight1.text,A rua se dobra e continua para o leste.
+EventRevealStoreFront.button1,Continuar
+EventRevealStoreFront2.text,Um homem de meia idade esta caido contra a parede, dormindo ou pior. Ele não se move quando você entra na rua. \n\nAdicione o marcador de Exploração, avistamento e de Pessoa, como indicado.
+EventRevealStoreFront2.button1,Continuar
+TokenSight2.button1,Explorar para o Leste
+EventRevealSideAlley2.text,Os becos sem saída terminam em uma cerca de ferro forjado. Normalmente, a cerca é aberta e leva a um espaço público antes da Câmara Municipal. No entanto, o Comissário barrou o acesso após o início dos problemas. \n\nAdicione o mapa Beco 2 como indicado. Remova este marcador de avistamento.
+TokenSight2.text,A rua continua para o leste; no entanto, por ter encontrado abrigo, seu instinto lhe diz para abandonar as ruas.
+EventRevealSideAlley2.button1,Continuar
+EventRevealSideAlley22.text,Algo chama a sua atenção no final do beco,preso em um bueiro. Pode não ser nada. Uma lata de lixo também foi tombada, derramando o seu conteúdo para a rua. \n\nAdicione  marcadores de procura como indicado.
+EventRevealSideAlley22.button1,Continuar
+TokenFemur.button1,{action} Procurar no lixo.
+EventRabbitFoot1.button1,Continuar
+TokenFemur.text,O lixo cheira de maneira horrível, como a morte. Você procura nos conteúdos derramados na rua, mas não encontra nada de interessante. Você pode olhar mais fundo, embora seu instinto diga para abandonar esta busca.
+EventRabbitFoot1.text,Você pega o item com relativa facilidade. Ganhe o item comum Pé de Coelho da sorte. Remova este Marcador de porcura.
+EventFemur3.text,Segurando seu nariz, você mergulhar a mão no lixo. Você sente uma vara lisa. Talvez possa ser de alguma utilidade? \n\n Você retira o item da lixeira e faz uma descoberta angustiante. Não é uma vara, mas um femur que foi limpo. Pequeno, talvez de um cão ... ou uma criança. \n\n sofra 1 Horror voltado para baixo. Remova este marcador de procura.
+EventFemur3.button1,Continuar
+TokenRabbitFoot.text,Uma esquisitice foi achada no bueiro. As recentes tempestades provavelmente lavaram-na na rua.
+TokenRabbitFoot.button1,{action} Recuperar esquisitice.
+quest.authors,Gwan
+TokenStorefrontDoor.button1,{action} Abrir a porta.
+EventRevealStore1.text,Muitas bugigangas brilham sob o luar. É uma loja de mercadorias gerais, então você deve ser capaz de encontrar algo de util. O lado oeste da loja contém produtos medicinais. O lado leste exibe mercadorias em geral. Uma grande janela com vista para a rua. \n\nAdicione marcadores de Exploração, Interação, procura e de avistamento como indicado. Remova este marcador de exploração.
+TokenStorefrontDoor.text,Uma porta pesada leva a loja. Por alguma razão, a porta esta destrancada mesmo a esta hora da noite.
+EventRevealStore1.button1,Continuar
+TokenWindow1.button1,Continuar
+TokenWindow2.text,A grande janela tem uma vista para a rua. Se a janela não estiver bloqueada, um investigador em um espaço adjacente a este marcador de avistamento pode saltar através da janela.
+TokenOfficeDoor.button1,{action} Abrir a porta.
+EventRevealOffice1.text,A porta se abre para revelar um escritório arrumado. bens adicionais alinham-se nas prateleiras. À sua direita, a mesa principal e um pequeno espaço para cachorro no canto. \n\n Adicione o Mapa Escritório,e os marcadores de parede, Interação e cão como indicado. Remover este marcador de exploração..
+TokenOfficeDoor.text,Uma porta de madeira leva mais para dentro da loja. Você não ouve qualquer ruído por trás dele. A loja esta provavelmente vazia.
+EventRevealOffice1.button1,Continuar
+TokenBarricades.text,Várias prateleiras ocupam a metade da frente da loja. Elas são feitas de madeira e vidro. Vai levar algum esforço, mas você provavelmente poderia usá-las para bloquear acesso para a loja.
+TokenBarricades.button1,{action} Tentar criar barricadas.
+EventBarricades1.text,O Investigador que tenta criar bloqueio deve executar um teste de {força} Teste.
+EventBarricades1.button1,Confirmar
+EventBarricades1.button2,Falhou
+EventBarricades2.text,Você puxou com sucesso os armários de suas amarras para o chão! \n\nAdicione o marcador de bloqueio como indicado. Remova este marcador de Interação.
+EventBarricades2.button1,Continuar
+EventBarricades3.text,Os armários movem-se um pouco, mas eles não são completamente livres de suas amarras para o chão.
+EventBarricades3.button1,Continuar
+TokenGeneralItem1.text,Olhando a caixa de vidro, você não detecta nada de particular interesse. Apenas alguns itens gerais de uso diário. O trinco está bloqueado. Se você quiser, você terá que quebrar o vidro.
+TokenGeneralItem1.button1,{action} Quebrar a tampa de vidro.
+EventGeneralItem2.text,Você estremece ao som de vidro quebrando, preocupado com a atenção que você pode ter atraído para a loja. Você busca na esperança de encontrar algo de valor. \n\nGanhe o Item mostrado. Remova este marcador de procura.
+EventGeneralItem2.button1,Continuar
+EventBrokenGlass1.text,O Investigador que quebrou o vidro percebe que sua mão está sangrando. Um aumento em acidentes foi um dos primeiros sinais notáveis ​​de "Os problemas." \n\nO Investigador sofre 1 dano voltado para baixo.
+EventBrokenGlass1.button1,Continuar
+TokenAct1.text,A peça central do escritório é uma grande mesa. Ele irá fornecer uma área adequada para refletir com os seus pensamentos e traçar o próximo curso de ação.
+TokenAct1.button1,Confirmar quando todos os investigadores estiverem no Escritório.
+EventAct1.text,Enxugando o suor do seu rosto, você volta aos seus pensamentos sobre os eventos que levaram a este ponto. faz semanas desde que você investigou a mansão do Sr. Vanderbilt. Você escoltou Mr. Vanderbilt em custódia federal e removeu as evidências chave da casa. \n\nRemova este marcador de interação.
+EventAct1.button1,Continuar
+EventAct12.text,O "Necromoni ... Necromonica? Necrominic?" O que quer que seja a maneira que ele chamou. Muitas sílabas para apenas um livro. Você entregou juntamente com o Sr. Vanderbilt para os federais. Um livro velho mofado que ele parecia apreciar.
+EventAct12.button1,Continuar
+EventAct13.text,Desde aquela noite, eventos em sua cidade natal tomaram um rumo cada vez pior. Tudo começou com pequenos contratempos ou acidentes. A morte em uma escada quebrada. Um incêndio devastador que matou crianças brincando de futebol em um beco. Os eventos sempre pareciam piorar.
+EventAct13.button1,Continuar
+EventAct14.text,A Prefeitura convocou uma reunião. Você participou da mesma nesta noite. Foi depois que você retornou que encontrou seu escritório em ruínas. Agora você vem fugindo durante horas. O suor continua a pingar de sua testa. \n\npelo menos você entregou o livro para a polícia.
+EventAct14.button1,Continuar
+EventAct15.text,Só que você não entregou. Você o manteve. Algo obrigou você para a mantêlo em sua posse. Na verdade, você ainda o tem, neste momento, escondido debaixo dos seus braços. Você nunca vai esquecer o olhar no rosto do Sr. Vanderbilt ao ser levado. Rindo histericamente ... para você? \n\nTodos os investigadores sofrem 1 horror voltado para baixo.
+EventAct15.button1,Continuar
+EventAct16.text,Algo sobre o livro deve ser a resposta!
+EventAct16.button1,Continuar
+EventAct21.text,O Necronomicon descansa aberto na mesa do escritório. A escrita é traduzida a partir de um rabisco que você não entende. A referências de limpeza e absolvição. Guiados por estas notas, você acredita que você deve coletar reagentes necessários para começar o encantamento: espíritos medicinais e componentes animais.
+EventAct21.button1,Continuar
+EventAct22.text,Adicionar Marcadores de Interação como indicado.
+EventAct22.button1,Continuar
+EventAct23.text,Adicionar Marcadores de Interação como indicado.
+EventAct23.button1,Continuar
+TokenDrunk1.text,O homem cheira a decadência. Ele está encostado contra a parede, obscurecendo a maioria da sua face a partir do seu ponto de vista. A pele do seu rosto que você pode ver é marcada e manchada. O cheiro por si só o impede de chegar mais perto. \n\nVocê suspeita que ele está morto. Mais uma razão para seguir em frente rapidamente.
+TokenDrunk1.button1,Continuar
+TokenSearch2.text,Numerosas vitrines de vidro estão na ala leste da loja. Os reagentes de que você está procurando podem ser localizados em qualquer uma dessas vitrines de vidro.
+TokenSearch2.button1,{action} Pesquisar no extremo leste.
+TokenSearch1.text,Prateleiras, armários e caixas encontram-se na ala oeste da loja. Aqui você pode ser capaz de encontrar os reagentes.
+TokenSearch1.button1,{action} Pesquisar no extremo oeste.
+TokenSearch3.text,Uma grande estante ocupa esta seção do escritório. Talvez os reagentes de que você está procurando possam ser encontrados em suas prateleiras?
+TokenSearch3.button1,{action} Pesquisar no escritório.
+EventReagantSearch2.text,Executar um teste de {observation} Teste para procurar os reagentes.
+EventReagantSearch1.text,Você pesquisa a região da loja, sem encontrar nada de interessante. Depois de fazer uma pausa, talvez procurar mais um pouco não seria ruim ... ou poderia?
+EventReagantSearch1.button1,Continuar
+EventReagantSearch2.button1,Confirmar
+EventReagantSearch2.button2,Falhou
+EventReagantSearch3.text,Depois de uma exaustiva busca nesta área da loja, você está convencido de que não vai encontrar nada útil nesta parte da loja. \n\nRemova este marcador de interação. Ganho uma 1 marcador de pista.
+EventReagantSearch3.button1,Continuar
+EventReagantSearch4.text,Executar um teste de {observation} para procurar os reagentes.
+EventReagantSearch4.button1,Confirmar
+EventReagantSearch4.button2,Falhou
+EventReagantSearch5.text,Depois de uma exaustiva busca nesta área da loja, você está convencido de que não vai encontrar nada útil nesta seção da loja. \n\nRemova este marcador de interação. Ganho 1 marcador de pista.
+EventReagantSearch5.button1,Continuar
+EventReagantSearch6.text,Executar um teste de {observation} para procurar os reagentes.
+EventReagantSearch6.button1,Confirmar
+EventReagantSearch6.button2,Falhou
+EventReagantSearch7.text,Você não encontra os reagentes ainda, mas existem mais caixas para olhar, e você sente que está no caminho certo.
+EventReagantSearch7.button1,Continuar
+EventReagantSearch8.text,Procurando uma caixa marcada como produtos medicinais, você encontra reagentes onde voçê acha que serão uteis para o encantamento. Ganhe os itens comuns água benta e Whiskey. Também ganhe o item especial Componetes Ritualísticos. \n\nRemova os marcadores de interação como indicado.
+EventReagantSearch8.button1,Continuar
+EventChild1.text,Uma criança pequena que aparece na porta da frente da loja. Ela coloca a mão na janela de vidro da porta. Ela não fala e sua pele é pálida. Parece que ela quer entrar na loja. O homem encostado contra a parede parece agitado com a presença da criança. \n\nAdicione o marcador de pessoa laranja, como indicado.
+EventChild1.button1,Continuar
+EventChild2.text,Existe uma barricada bloqueando a janela de loja?
+EventChild2.button1,Sim
+EventChild3.text,A próxima vez que você olha para a porta da frente, a criança desaparece. Você espera que ela esteja em segurança. \n\nRemova o marcador de pessoa laranja.
+EventChild3.button1,Continuar
+EventChild2.button2,Não
+EventChild4.text,A criança atirou-se pela janela da frente de loja! fragmentos de vidro cairam pelo chão! A criança corre por toda a sala com a velocidade de uma víbora para o investigador mais próximo!
+EventChild4.button1,Continuar
+EventChild5.text,Mova o marcador de pessoa laranja ao Investigador mais próximo. A criança se agarra a perna do investigador! Olhos fixos encaram fixamente o Investigador. Toda vez que o investigador se move , o marcador de pessoa laranja se move junto. No App, o marcador de pessoa laranja é removido para fora do mapa como indicado. \n\nREGRA: O investigator tem menos 1 ação todo turno até que a criança seja retirada. \n\nREGRA: O marcador de pessoa laranja se sobresai sobre todas as regras relativas a marcadores de pessoas.
+EventChild5.button1,Continuar
+TokenChild2.text,o rosto da criança é pálido. Seus olhos são inquietantes, fixados diretamente nos seus. Sua perna esta quase completamente paralisada.
+TokenChild2.button1,{action} Tentar desalojar a criança.
+EventChild6.text,A próxima vez que você olhar para a porta da frente, a criança terá desaparecido. Você espera que ela esteja em segurança. \n\nRemova o Marcador de Pessoa Laranja.
+EventChild6.button1,Continuar
+TokenChild1.text,Os olhos da criança ainda olham para o seu. Ele parece calmo, em estado de choque talvez pelos eventos da noite. \n\nUm Investigador na parte dianteira da loja pode permitir-lo entrar na loja por 1 ação {action}.
+TokenChild1.button1,Permitir que a criança entre na loja.
+TokenChild1.button2,Não permita que a criança entre na loja.
+EventChild7.text,A criança não fala. Em vez disso, ela se encolhe no canto da frente da loja. Ela parece absolutamente petrificada. \n\nAvance o marcador de pessoa laranja como indicado. REGRA: o marcador de pessoa laranja se sobresai sobre todas as regras de marcadores de pessoa.
+EventChild7.button1,Continuar
+TokenChild3.text,A criança não faz contato visual com você, continuando a olhar para o canto da sala.
+TokenChild3.button1,Continuar
+EventTheSwarm1.text,Do fundo da rua em direção de seu escritório, você ouve o som de passos. \n\nComece próxima rodada.
+EventTheSwarm1.button1,Continuar
+EventTheSwarm2.text,De repente, o homem treme incapacitado e se levanta! Ele olha sem emoção para a loja. Lentamente, ele começa a arrastar-se em sua direção. \n\nMova o marcador de pessoa branco como indicado.
+EventTheSwarm2.button1,Continuar
+EventTheSwarm3.text,Os sons de passos aumentou para um burburinho maçante. Várias pessoas ... ou coisas ... estão se aproximando em sua direção.
+EventTheSwarm3.button1,Continuar
+TokenDrunk2.text,Os olhos do homem olham o seu. Ele parece calmo, desconectado do mundo à sua volta ... com a exceção de que ele permanece intensamente fixado em você. Sua presença é inquietante.
+TokenDrunk2.button1,{action} Aproximar-se do homem.
+EventDrunk1.text,Sem aviso, o homem de repente agarra seu braço! Ele não diz nada. Seu rosto não traz nenhuma emoção. Suas mãos apertam seu braço, e você sente que começa a ficar dormente. Sempre que você se move, o marcador de pessoa de homem Branco se move com você. No App,o marcador de pessoa branco foi colocado fora do mapa \n\nREGRA:. Você tem menos 1 ação cada turno até que Marcador de Pessoa seja retirado \n\nREGRA:. o Marcador de Pessoa Branco se sobresai sobre todas as regras de marcadores de pessoa..
+EventDrunk1.button1,Continuar
+TokenDrunk3.text,Seu braço está agora completamente dormente. O homem continua a não dizer nada. Você pode tentar remover seu aperto. Seu odor é nauseante.
+TokenDrunk3.button1,{action} Tentar desalojar o homem.
+TokenSwarm1.button1,Continuar
+EventTheSwarm4.text,O relógio da cidade marca a hora. Uma mulher passeia em direção de seu escritório. Como os outros encontrados esta noite, ela tem um olhar fixo. Ela continua na rua sem pressa ou preocupação. \n\nAdicione o marcador de pessoa cinza como indicado. \n\nO Investigator com a menor determinação {determinação} sofre 3 horrores voltados para baixo. Negados por {determinação}. 
+TokenSwarm1.text,Os investigadores não podem interagir com Marcadores de Pessoas.
+EventTheSwarm4.button1,Continuar
+TokenSwarm2.button1,Continuar
+EventTheSwarm5.text,Mais pessoas da cidade se reúnem na rua da direção de seu escritório. Eles Calmamente caminham em sua direção. \n\nNo App, o marcador de pessoa cinza foi removido do mapa \n\nREGRA:. No final da Fase de Investigação, adicione 1 Marcador de Pessoa da reserva de marcadores no mesmo espaço com o Marcador de Pessoa Cinza. Mova todas os Marcadores de Pessoas para o investigador mais próximo, a menos que algo evite a mecânica movimento normal. \n\nSe confuso, Clique neste Marcador de procura a qualquer momento para obter mais instruções.
+TokenDrunk4.text,As pessoas de cidades brilham para você e chegam com as mãos estendidas. Talvez eles devão ser evitados. \n\nOs investigadores não podem interagir com o marcador de pessoas.
+TokenDrunk4.button1,Continuar
+TokenSwarm2.text,As pessoas de cidades brilham para você e chegam com as mãos estendidas. Talvez eles devão ser evitados. \n\nOs investigadores não podem interagir com o Marcador de Pessoas.
+EventTheSwarm5.button1,Continuar
+EventTheSwarm6.text,Existem mais de 5 Marcadores de Pessoas ocupando um espaço com um Investigador?
+EventTheSwarm6.button1,Sim
+EventTheSwarm6.button2,Não
+EventTheSwarm7.text,O enxame de pessoas de repente agarra o investigador. Gritos de socorro são abafados à medida que mais corpos entram na briga. Seu colega desaparece debaixo de uma massa torcida da humanidade. \n\nO Investigator foi eliminado.
+EventTheSwarm7.button1,Continuar
+EventAct24.text,Você sabe instintivamente que você recolheu os reagentes necessários. É hora de preparar o altar para o encantamento. \n\nAdicione o marcador de interação, como indicado.
+EventAct24.button1,Continuar
+TokenAlter1.text,Um altar precisa ser construído a fim de completar o encantamento.
+TokenAlter1.button1,Tentativa de criar o altar usando {lore}.
+PuzzleAlter.button1,Advinhe
+EventTheSwarm8.text,Todos os investigadores sofrem 1 horror voltado para baixo. \n\nUm marcador de interação foi colocado fora do mapa. REGRA: Se a fase de Investigação começar com um Investigador partilhando um espaço com 5 ou mais Marcadores de Pessoas, clique neste marcador de interação.
+EventTheSwarm8.button1,Continuar
+EventPuzzleAlter2.text,Sua visão brilha! Uma presença sobrenatural invade sua mente, e por um segundo, você sente como se seu crânio estivesse sendo espremido. O altar foi concluído! \n\nInvestigadores devem descartar o item especial Componentes Ritualisticos  e o Item comum Água Benta.
+EventPuzzleAlter2.button1,Continuar
+TokenAlter2.text,Agora, com o altar completo, você pode começar a primeira etapa do encantamento: a perfuração da fenda mundo.
+TokenAlter2.button1,{action} tente furar a fenda mundo.
+TokenDogCat1.text,O cão pequeno está confortavelmente cochilando no canto, relativamente alheio à sua presença.
+TokenDogCat1.button1,Continuar
+EventAct31.text,Agora que o altar for concluído, você pode começar o encantamento. O livro indica que a presença de um cão fornece suporte adicional para a perfuração necessária da fenda mundo.
+EventAct31.button1,Continuar
+EventAct32.text,O cão que estava descansando perto da mesa correu para a frente da loja. Ele lamenta em um canto da sala ... exceto que ele não é um cachorro, mas um gato? Você poderia jurar que inicialmente viu um cão. \n\n vire e mova o marcador de cachorro como indicado.
+EventAct32.button1,Continuar
+TokenDogCat2.text,O gato mia em sua direção.
+TokenDogCat2.button1,{action} Tentar pegar o gato.
+EventDogCat1.text,Estressado pelo sentimento de desgraça iminente, você corre para o gato. Teste {agility}
+EventDogCat1.button1,Confirmar
+EventDogCat2.text,Não foi fácil, mas você pega o gato e o acalma. \n\nGanhe o marcador de gato. No App, o marcador do gato é colocado fora do tabuleiro.
+EventDogCat2.button1,Continuar
+TokenDogCat3.text,Este gato não está feliz.
+TokenDogCat3.button1,Continuar
+EventAct33.text,Como se por instinto, você recita das primeiras palavras do encantamento em uma língua estrangeira. A fundação da loja muda debaixo dos seus pés. Vigas se torcem e rachão com a sobrecarga. \n\nTeste {lore}. {lore} +3 se um investigador com o cão está presente no mapa Escritório..
+EventAct33.button1,Confirmar
+EventDogCat1.button2,Falhou
+EventDogCat3.text,O gato percebe sua vinda a uma milha de distância e facilmente escapa sua tentativa.
+EventDogCat3.button1,Continuar
+TokenDogCat4.text,O gato sibila em sua direção.
+TokenDogCat4.button1,{action} Tentar pegar o gato.
+TokenDogCat5.text,O gato sibila em sua direção.
+TokenDogCat5.button1,{action} Tentar pegar o gato.
+EventDogCat4.text,Mover o Marcador do Gato como indicado.
+EventDogCat4.button1,Continuar
+EventDogCat5.text,Mover o Marcador do Gato como indicado.
+EventDogCat5.button1,Continuar
+EventDogCat6.text,Mover o Marcador do Gato como indicado.
+EventDogCat6.button1,Continuar
+TokenDogCat6.text,Latindo em sua direção, o cão não parece amigável. Ele evita qualquer abordagem pelos investigadores.
+TokenDogCat6.button1,Continuar
+EventDogCat7.text,O gato corre ao redor da loja afligido por algum tipo de mania. Quando descansa, não é um gato, mas um cão? Algo estranho está ocorrendo dentro deste loja. \n\nVire mova o Marcador de  gato como indicado.
+EventDogCat7.button1,Continuar
+EventDogCat8.text,O cão corre em torno da loja afligido por algum tipo de "mania". Quando descansa, é um gato! Seu aperto na realidade esta enfraquecendo. \n\nVire  e mova o Marcador de cachorro como indicado.
+EventDogCat8.button1,Continuar
+EventDogCat9.text,Num piscar de olhos, o gato que você estava segurando se transforma em um cão pequeno! \n\nVire o Marcador de gato como indicado.
+EventDogCat9.button1,Continuar
+TokenDogCat7.text,O cão parece muito confuso.
+TokenDogCat7.button1,Continuar
+EventDogCat10.text,O cão fica agitado e morde seu braço! Distraído, você solta o cão. Ele foge. \n\nSofra 1 Dano voltado para baixo. Vire e mova o Marcador de cão, tal como indicado.
+EventDogCat10.button1,Continuar
+EventAct33.button2,Falhou
+EventAct34.text,As luzes do escritório cintilam.
+EventAct34.button1,Continuar
+SpawnCultist1.button1,Continuar
+SpawnDeepOne1.button1,Continuar
+SpawnCultist1.text,Sua tentativa de furar a fenda mundo foi apenas parcialmente bem sucedida. Um cultista de um outro reino conseguiu entrar antes da fenda colapsar. \n\nColoque um Cultista como indicado.
+EventAct35.text,Sua tentativa de furar o a fenda mundo foi apenas parcialmente bem sucedida. Um investigador foi puxado através da fenda dentro da loja antes de seu colapso! \n\nAvance um Investigador de sua escolha para o espaço inicial do mapa Beco 1.
+SpawnDeepOne1.text,Sua tentativa de furar a fenda mundo foi apenas parcialmente bem sucedida. Um demônio de um outro reino conseguiu rastejar para o escritório antes do colapso da fenda. \n\nColoque um Abissal conforme indicado.
+EventAct35.button1,Continuar
+EventAct36.text,Embora você não tenha certeza exatamente como você conseguiu, você conseguiu furar a fenda que se liga aos mundos. As luzes se apagam dentro da loja. Um vento sujo passa na rua. Agora resta apenas um passo para banir seus inimigos: você deve recitar as palavras de poder!
+EventAct36.button1,Continuar
+TokenAlter3.text,Você quase termina o encantamento que certamente irá reverter qualquer mal desencadeado sobre Arkham. O único passo restante é falar em voz alta as palavras de poder. Você lembra de ver essas palavras específicas anotadas em uma página do livro durante uma revisão da mesma após a captura do Sr. Vanderbilt.
+TokenAlter3.button1,Continuar
+EventAct41.text,Você busca nas páginas as palavras de poder. No entanto, ao fazê-lo, o gato sibila, salta em você, rasga a página do livro e corre através de uma janela saindo da loja! Você Observa em vão como o Cão desaparece de vista. \n\nRemova o Marcador de Cão ou Gato do jogo.
+EventAct41.button1,Continuar
+EventAct42.text,Felizmente, o cão aparentemente deixou cair a página importante na rua. Infelizmente, alguém deve aventurar-se e recuperar a página ou certamente tudo estará perdido. \n\nAdicione um marcador de procura como indicado.
+EventAct42.button1,Continuar
+TokenNecromonicon1.text,Um pedaço de papel rasgado cai do vento na rua.
+TokenNecromonicon1.button1,{action} Pegar o papel.
+EventNecromonicon1.text,Pegando o papel, as pessoas da cidade começam a reagir com velocidade desumana. Antes de perceber o que aconteceu, eles vão em cima de você! \n\nAvance todos os marcadores de pessoa para seu espaço.
+EventNecromonicon1.button1,Continuar
+EventNecromonicon2.text,Gritando com você em línguas guturais, o povo da cidade agarra e puxa para o seu corpo. Com a mão direita segurando o pedaço de papel, você consegue ler as três palavras de poder \n\n regra:. Apenas o investigador que desencadeou este evento pode ler o próximo texto.
+EventNecromonicon2.button1,Revelar o próximo texto
+EventNecromonicon3.text,REGRA: começando com o investigador em um espaço mais próximo de você, você tem uma oportunidade de sussurrar cada palavra de poder. Informar que Investigador que ele ou ela tem uma oportunidade de sussurrar as palavras para o próximo Investigator mais perto de seu espaço. Repita quantas vezes for necessário até que todos os investigadores tenham sussurrado as palavras. O Investigador mais próximo do altar é o único investigador que pode tentar falar as palavras de poder. \n\nAs três palavras de poder são: "Klaatu", "Barada" e "Nikto" \n\nTodos os investigadores podem ler o próximo texto.
+EventNecromonicon3.button1,Começar o Desafio do Sussurro
+EventNecromonicon4.text,A massa de corpos começam a bloquear a sua visão. Lutando por ar, você grita desesperadamente as palavras de poder. Como tudo esta  ficando escuro, você não tem certeza se qualquer um dos seus colegas ouviu. \n\nRemova este Marcador de procura e seu Investigador. Você foi eliminado.
+EventNecromonicon4.button1,Continuar
+EventStart4.text,{c:EventStart3}: Leia o seguinte aviso para si mesmo \n\n "Desde que seus colegas descobriram o livro amaldiçoado na mansão do Sr. Vanderbilt, eles têm atuado de maneira incomum. Paranóicos. Constantemente agitados. Cansados. A cidade inteira foi para o inferno, e o livro é o culpado! você é grato por não tê-lo visto por várias semanas ".
+EventStart4.button1,Iniciar!
+TokenNecromonicon2.text,Um pedaço de papel rasgado voa na rua.
+TokenNecromonicon2.button1,{action} Pegar o papel.
+EventAct43.text,Através da janela, você também nota um segundo pedaço de papel tremulando na rua com o vento. \n\nAdicione um Marcador de Procura, conforme indicado.
+EventAct43.button1,Continuar
+EventNecromonicon5.button1,Continuar
+EventNecromonicon5.text,Nada mais do que um recorte de jornal de acontecimentos recentes. \n\nRemova este Marcador de procura.
+TokenAlter4.text,O altar emana um poder de outro mundo. Sua visão borra enquanto você tenta se concentrar nele. Vozes sussurram em seu ouvido. Tudo o que resta a fazer é recitar as palavras de poder.
+TokenAlter4.button1,{action} Tentar recitar as palavras de poder.
+EventAct44.text,A primeira palavra do poder é: ___.
+EventAct44.button1,Klaatu
+EventAct44.button2,Klaata
+EventAct44.button3,Klaato
+EventAct45.text,A segunda palavra do poder é: ___.
+EventAct45.button1,Verata
+EventAct45.button2,Barada
+EventAct45.button3,Darada
+EventAct46.text,A última palavra do poder é: ___.
+EventAct46.button1,Nekter
+EventAct46.button2,Nikle
+EventAct46.button3,Nikto
+EventAct46.button4,Nektie
+EventAct47.button1,Continuar
+EventAct47.text,As luzes se apagam no escritório.
+EventAct48.text,As luzes se apagam no escritório.
+EventAct48.button1,Continuar
+EventAct49.text,O assoalho se desloca debaixo dos seus pés.
+EventAct49.button1,Continuar
+EventAct410.text,O assoalho se desloca debaixo dos seus pés.
+EventAct410.button1,Continuar
+EventAct411.text,O altar irrompe com uma luz branca ofuscante. Afastando-se, todo o seu campo de visão é apagado pela luz. A última coisa que você sente antes de perder a consciência é um vento forte que traz consigo um calor abrasador.
+EventAct411.button1,Continuar
+UI2.uitext,Uma quantidade desconhecida de tempo mais tarde, você e seus colegas acordam na loja. Seus inimigos não podem ser encontrados. A julgar pelas marcas de queimaduras nos edifícios e cinzas na rua, você deve ter convocado um terrível incêndio que varreu a cidade. \n\nCom o livro aninhado sob seu braço, você confiantemente foge pelas ruas de Arkham ...
+EventAct412.button1,Continuar
+EventAct413.button1,Continuar
+EventAct414.text,O altar irrompe com uma luz branca ofuscante. Afastando-se, todo o seu campo de visão é apagado pela luz. A última coisa que lembro antes de perder a consciência é um vento forte que traz consigo um calor abrasador.
+EventAct414.button1,Continuar
+EventTheSwarm9.text,Mais pessoas da cidade se reúnem na rua da direção de seu escritório. Eles calmamente caminham em sua direção. \n\nREGRA: continue adicionando e movendo Marcadores de Pessoas como previamente instruído para o investigador mais próximo e acessível.
+EventTheSwarm9.button1,Continuar
+TokenSwarmTrigger.text,um Investigador está compartilhando um espaço com 5 ou mais Marcadores de pessoas no início da Fase de investigação?
+TokenSwarmTrigger.button1,Sim
+TokenSwarmTrigger.button2,Não
+EventTheSwarm10.text,Existe um marcador de bloqueio bloqueando a porta de entrada para a loja?
+EventTheSwarm10.button1,Sim
+EventTheSwarm10.button2,Não
+EventTheSwarm11.text,As pessoas da cidade começam a se jogar contra a porta! Fissuras formam-se na moldura. Como as rachaduras alargam, as pessoas começam a entrar. Suas mãos agarram descontroladamente em você. \n\nAdicione um marcador de interação, tal como indicado.
+EventTheSwarm11.button1,Continuar
+TokenBarricade3.text,A porta está estilhaçando, mas você poderia reforçar a barricada bloqueando as pessoas da cidade - ainda que brevemente. \n\nUm Investigador neste espaço pode gastar 1 ação{action} para reforçar a barricada. O Investigador deve ficar neste espaço no final da Fase de Investigação.
+TokenBarricade3.button1,Continuar
+EventTheSwarm12.text,As pessoas da cidade continuam a pressionar contra a porta! O bloqueio esta cedendo. \n\nA um Investigador reforçando a porta?
+EventTheSwarm12.button1,Sim
+EventTheSwarm12.button2,Não
+EventTheSwarm13.text,As pessoas da cidade quebraram a porta da frente da loja! \n\nAvance o marcador de  Pessoas  para o primeiro espaço da loja pela porta. Remova o Marcador de bloqueio e interação.
+EventTheSwarm13.button1,Continuar
+EventTheSwarm14.text,Você pressiona de volta contra o enxame de pessoas. Músculos em seus braços e pernas gritam de agonia. O suor escorre de sua testa. \n\nO Investigador que reforçou o bloqueio deve executar um teste de {força} Teste.
+EventTheSwarm14.button1,Confirmar
+EventTheSwarm14.button2,Falhou
+EventTheSwarm15.text,Sua luta contra as pessoas da cidade não foi em vão. Por enquanto, a barricada na porta detém. Fora da loja você ouve os pés do multidão. É apenas uma questão de tempo antes que eles façam outra tentativa. \n\nSofra 1 dano voltado para baixo.
+EventTheSwarm15.button1,Continuar
+EventTheSwarm16.text,Como as pessoas da cidade começam a entrar para a loja, você busca em desespero por uma maneira de escapar. olhando uma prateleira, você acredita que pode retardar o seu progresso bloqueando a porta do escritório. \n\nAdicione um marcador de interação como indicado.
+EventTheSwarm16.button1,Continuar
+TokenBarricade4.text,A prateleira de madeira ocupa este lado do escritório. Vai levar algum esforço, mas você provavelmente poderia usá-lo para barricar acesso a esta sala.
+TokenBarricade4.button1,{action} tentativa de criar bloqueio
+EventTheSwarm17.text,O Investigador tentando criar bloqueio deve executar um teste de {força} Teste.
+EventTheSwarm17.button1,Confirmar
+EventTheSwarm17.button2,Falhou
+EventTheSwarm18.text,Você puxou com sucesso a prateleira da parede! \n\nAdicione os marcadores de bloqueio como indicado. Remova este marcador de interação. \n\nREGRA: o povo da cidade agora atua como um monstro com um VIGOR de 5.
+EventTheSwarm18.button1,Continuar
+EventTheSwarm19.text,A estante se move um pouco, mas não é completamente livre de sua amarra na parede. \n\nSofra 1 Horror voltado para baixo.
+EventTheSwarm19.button1,Continuar
+UI3.uitext,Fim
+UI3.button1,Button1
+UI4.uitext,Dias depois, os federais entraram em Arkham. As pessoas da cidade não foram encontradas. A julgar pelas marcas de queimaduras nos edifícios e cinzas na rua, foi determinado que um terrível incêndio consumiu a cidade depois de um motim na prefeitura. \n\nA única sobrevivente era uma criança pequena. Petrificada pela experiência, ele já não falava, mas se agarrou desesperadamente a um velho tomo, empoeirado.
+UI6.uitext,Seu colega foi o primeiro a cair para a massa da humanidade que se forçou para a loja. Exausto depois de resistir até o fim, você tropeça em um canto do escritório. Um após o outro, as pessoas da cidade enchem a sala. À medida que cada um entra, o quarto torna-se cada vez mais escuro. Eles ficam ao seu redor, e o quarto se torna preto.
+EventChild8.text,A criança corre em toda a sala com a velocidade de uma víbora para o investigador mais próximo!
+EventChild8.button1,Continuar
+EventChild9.text,A próxima vez que você olha para a porta da frente, a criança estará desaparecida. Você espera que ela encontre um local em segurança. \n\nRemova o marcador de pessoa laranja.
+EventChild9.button1,Continuar
+EventReagantSearch9.text,{c:EventStart3} Mexe desconfortavelmente e de repente diz: "devemos estar mexendo com este livro Nada de bom acontece Deve ser queimado Há uma vela no escritório que iria fazer o truque!" \n\nAdicione o Marcador de interação, tal como indicado.
+EventReagantSearch9.button1,Continuar
+TokenCandle.text,Uma vela brilhante fica no final da mesa. Se fosse acidentalmente derrubada no chão,certamente iniciaria um incêndio.
+TokenCandle.button1,{action} Iniciar um incêndio.
+EventFire1.text,Ao bater no tapete no chão, a vela engolfa em chamas. Um fogo crepita à vida. Em segundos ele é um inferno feroz. \n\nRemova este marcador de interação. Adicione marcador de  fogo neste espaço do mapa Escritório.
+EventFire1.button1,Continuar
+EventFire2.text,Adicionar o marcador de interação, tal como indicado. Se o fogo está presente em todos os quatro espaços interiores, desencade este marcador.
+EventFire2.button1,Continuar
+TokenFire.text,Se o fogo está presente em todos os quatro espaços do interior, confirme.
+TokenFire.button1,Confirmar
+TokenFire.button2,Cancelar
+UI8.uitext,No momento em que o fogo toca o Necronomicon, há uma explosão ensurdecedora e um clarão ofuscante \n\nUma quantidade desconhecida de tempo depois, {c:EventStart3}! Acorda fora nas ruas de Arkham. Voltando à cidade, os locais e {c:EventStart3} 's seus colegas não podem ser encontrados. A julgar pelas marcas de queimaduras nos edifícios e cinzas na rua, o fogo começou perto dos investigadores e rasgou pela cidade. \n\nO livro se foi e por isso {c:EventStart3} entende-se que certa desgraça para o mundo inteiro foi evitada. Um resultado necessário, mesmo que isso significasse que alguns amigos precisavam ser sacrificados ...
+EventDoor.text,Você pode mover um espaço para dentro do mapa.
+EventDoor.button1,Continuar
+TokenWindow1.text,Este não é um Marcador de avistamento padrão. Em vez disso, é um Marcador para uma grande janela com vista para a rua.
+TokenWindow2.button1,{action} Pular através da janela.
+EventWindow1.text,Saltando pela janela para o outro lado! \n\n Você sofre 2 pontos de dano voltados para baixo. Mova seu Investigator conforme apropriado.
+EventWindow1.button1,Continuar
+EventTheSwarm20.button1,Continuar
+EventTheSwarm20.text,Algo se agita na noite.
+SpawnChildofDagon1.text,Sua atenção é desviada por algo abaixo na frente da loja. Uma criança tropeça do canto para a entrada, seu corpo torcendo e contorcendo. Sua pele que se estende através ossos salientes. Onde estava uma criança uma vez acovardada, agora está diante de um aterrorizante homem. \n\nRemova o Marcador de Homem Laranja e coloque um Discipulo de Dagon, como indicado.
+SpawnChildofDagon1.button1,Continuar
+EventAct37.text,As luzes param de piscar. Nada fora do comum parece ter ocorrido ... que você tenha observado.
+EventAct37.button1,Continuar
+EventAct38.text,Existe um marcador de bloqueio bloqueando a janela na frente da loja?
+EventAct38.button1,Sim
+EventAct38.button2,Não
+EventAct39.text,A ex-criança se debate na frente da loja. Com velocidade desumana de repente ele pega o investigador mais próximo pela nuca. Ele então pula pela janela arrastando o Investigator junto! \n\nAvance Discipulo de Dagon e o Investigador mais próximo 2 espaços  para longe do Mapa Rua frontal.
+EventAct39.button1,Continuar
+EventAct311.button1,Continuar
+EventAct310.text,A ex-criança se debate na frente da loja. Com velocidade desumana de repente ele pega o investigador mais próximo pela nuca. Ele então pula pela janela arrastando o Investigator junto! \n\nAvance Discipulo de Dagon e o Investigador mais próximo 2 espaços  para longe do Mapa Rua frontal.
+EventAct310.button1,Continuar
+EventAct311.text,A ex-criança se debate sobre na frente da loja. objetos comuns tornam-se projéteis mortais e voam na direçãos dos investigadores. \n\nTodos os investigadores em um espaço interior ao mapa Rua Frontal sofre 1 dano voltado para baixo.
+EventStart5.text,{c:EventStart3}: Leia o seguinte aviso para si mesmo \n\n "Tudo mudou quando seus colegas descobriram o Necronomicon na mansão do Sr. Vanderbilt, Eles não compreenderam o valor do livro, nem as forças do mal desencadeadas sobre a sua remoção.. da mansão. Nas mãos certas, pode ser uma ferramenta poderosa. Infelizmente, seus colegas instruiram a entregá-lo às autoridades juntamente com o Sr. Vanderbilt ".
+EventStart5.button1,Iniciar!
+EventRevealSideAlley23.text,Você percebe no final do beco perto da Prefeitura, um jornal que foi deixado em uma poça. Parece que o jornal foi abandonado ou esquecido. \n\nAdicione um Marcador de procura como indicado.
+EventRevealSideAlley23.button1,Continuar
+TokenJournal.text,A revista encontra se em uma poça. Não parece muito úmida, por isso não deve ter ficado aquo há tanto tempo.
+TokenJournal.button1,{action} Pegue o jornal.
+EventJournal1.text,Receba o item especial Diario Antigo e remova esse Marcador de procura. Um investigador segurando o Item Especial Diario Antigo pode interagir com ele.
+EventJournal1.button1,Continuar
+EventJournal2.text,Um investigador segurando o Item Especial Diario antigo pode lê-lo para uma ação.
+EventJournal2.button1,{action} Leia o próximo capítulo.
+EventAct17.text,{c:EventStart3} De repente fala-se: "Eu acredito que eu sei qual a fonte dos problemas." {c:EventStart3} De repente tira-se o Necronomicon a partir de uma pasta, coloca-o no centro da mesa e continua: "Devemos usar isso para restaurar o equilíbrio perturbado pela remoção do Sr. Vanderbilt" \n\nTodos os investigadores sofrem 1 Horror voltado para baixo.
+EventAct17.button1,Continuar
+EventReagantSearch10.text,Você muda nervosamente, lembrando {c:EventStart3} 'O discurso animado durante a audiência esta noite na Prefeitura. {c:EventStart3} foi desconsiderado que um livro descoberto na mansão do Sr. Vanderbilt seria a solução para os problemas de Arkham, hoje e amanhã. {c:EventStart3} 's maneirismos eram visivelmente diferente ... eles te lembram outra pessoa \n\nNo escritório você notou uma grande vela.. Talvez ela poderia ser um plano reserva para o livro. Adicione o marcador de interação, tal como indicado. \n
+EventReagantSearch10.button1,Continuar
+UI11.uitext,No momento em que o fogo toca o Necronomicon, há uma explosão ensurdecedora e um clarão ofuscante! Alguém dentro da loja grita em agonia! As misturas, gritando com o crepitar e silvo das chamas no Necronomicon. Os sons são ambos distinto e um só ao mesmo tempo. Você desmaia e perde a consciência com a visão de {c:EventStart3}. Contorcendo no chão \n\nUma quantidade desconhecida de tempo depois, você e seus colegas acordadam na loja. Os moradores e {c:EventStart3} não podem ser encontrados. A julgar pelas marcas de queimaduras nos edifícios e cinzas na rua, o fogo deve ter se espalhado por toda a cidade \n\n A perda de. {c:EventStart3} é um doce amargo, mas você acredita que você fez o que era necessário para destruir o Necronomicon . Certamente você evitou que algo mais terrível se espalhe para fora de Arkham.
+EventJournal3.text,"Embora eu não me lembre a fonte da informação, eu aprendi que a relíquia, entre outras, foi descoberta durante uma escavação de um túmulo antigo em uma terra exótica. Suas páginas são envelhecidas e empoeiradas, mas eu posso tentar entender a língua escrita além da minha compreensão. No entanto, não parece de qualquer importacia particular. É mais uma curiosidade. "\n\nTodos os investigadores ganham 1 marcador de pista.
+EventJournal3.button1,Continuar
+EventJournal4.text,"Depois de falar com o curador local de antiguidades estrangeiras, eu revi a relíquia mais uma vez. Ela mudou. O amarelecimento dos conteúdos desapareceu. As bordas, não estão dobradas. Tem-se algo escrito nas margens que eu não tinha visto primeiramente. Traduções? Você também se sente ... mais pesado, como se ''culpado'' com a autoridade ". \n\nTodos os investigadores ganham 1 marcador de pista.
+EventJournal4.button1,Continuar
+EventJournal5.text,A próxima entrada na revista é ilegível pelos danos causados ​​pela água.
+EventJournal5.button1,Continuar
+EventJournal6.text,"Um incêndio destruiu um armazém local. O diarista local está desaparecido. Possível Incendiário. Fui falar com o curador novamente, mas eu soube que ele está atualmente em repouso na cama depois de cair de uma escada enquanto montava uma nova exposição. Neste ponto, eu revi a relíquia extensivamente. e completamente traduzido. acredito que contém segredos divinos de um passado esquecido. Eu admito achar difícil dormir à noite. Meus pensamentos corriam. Algo sobre as relíquias me preocupava. Eu pretendo falar com meus colegas imediatamente sobre as minhas preocupações. "\n\nTodos os investigadores ganham 1 marcador de pista.
+EventJournal6.button1,Continuar
+EventJournal7.text,É {c:EventStart3} segurando o item especial Diario antigo?
+EventJournal7.button1,Sim
+EventJournal7.button2,Não
+EventJournal8.text,{c:EventStart3} Folheando a próxima página do diario observa-se que não há mais entradas. O jornal esta concluido. {c:EventStart3} em seguida, se fecha abruptamente \nit e enfia-se na pasta.
+EventJournal8.button1,Continuar
+EventJournal9.text,A entrada final do Diario é datado apenas há alguns dias atrás. Lê-se: "As minhas tentativas de fazer os meus colegas verem a razão falharam, Eles não entendem o que fizeram, Eles não entendem o que podemos realizar. Esta relíquia é a nossa resposta! Em vez disso, eles recuam com medo, eu chamei uma reunião de emergência na Câmara Municipal. Se Arkham não é por mim, é contra mim! "\n\n neste ponto, a caligrafia da entrada final torna-se mais estranha. As palavras difíceis de fazer para fora: “ph'nglui mglw'nafh Cthulhu R'lyeh wgah.” \n entrada \nO é assinado: "{c:EventStart3}". \n\nTodos os investigadores sofrem 1 Horror voltado para baixo.
+EventJournal9.button1,Continuar
+EventFire5.text,Um vento sujo arrasta-se em todo o escritório e loja, interrompendo as chamas de alcançar ao Necronomicon. \n\nSe possivel, mova 1 Marcador de  Fogo de um mapa de area interior para um mapa de area exterior..
+EventFire5.button1,Continuar
+EventJournal2.button2,Cancelar
+EventChild2a.text,A criança parece ter força sobre-humana. Você ou o seu colega podem tentar puxá-lo para longe de você. \n\nO Investigator que tentar remover a criança deve executar uma teste de {força} ou {agility} Teste.
+EventChild2a.button1,Confirmar
+EventChild2a.button2,Cancelar
+EventChild2b.text,Após um esforço considerável, a criança foi retirada da sua perna. Ele grita e desliza para um canto da sala. \n\nAvance o marcador de Homem laranja como indicado.
+EventChild2b.button1,Continuar
+EventDrunk3a.text,O homem tem força sobre-humana. Você ou o seu colega podem tentar puxá-lo para longe de você. \n\nO Investigator que tentar remover o homem deve realizar um teste de {força} ou {agility} Teste.
+EventDrunk3a.button1,Confirmar
+EventDrunk3a.button2,Cancelar
+EventDrunk3b.text,Após um esforço considerável, o homem foi retirado da sua perna. Ele grita em fúria! \n\nDescarte o marcador de homem branco, como indicado.
+EventDrunk3b.button1,Continuar
+SpawnHybrid.text,Após um esforço considerável, o homem foi removido da sua perna. Ele se debate e grita em fúria! \n\nDescarte o marcador de  homem branco como indicado. Coloque um  Um Híbrido Abissal no espaço anteriormente ocupado pelo Marcador de Homem Branco.
+SpawnHybrid.button1,Continuar
+EventChild2c.text,Por mais que tente,o aperto permanece forte. \n\nNão remova o Marcador de pessoa homem laranja
+EventChild2c.button1,Continuar
+EventDrunk3b0.text,Por mais que tente,o aperto permanece forte. \n\nNão remova o marcador de Pessoa  homem branco
+EventDrunk3b0.button1,Continuar
+TokenTip1.text,Explicação dos marcadores de pessoa \n\nPrimeiro:. No final da Fase de Investigação, mova o Marcador de Pessoa mulher cinza 1 espaço para o Investigador acessível mais próximo. Se algo bloqueia o movimento não mova o Marcador de Pessoa mulher cinza \n\nsegundo:. Adicione 1 marcador de Pessoa da reserva de marcadores para o mesmo espaço que o Marcador de mulher cinza.
+TokenTip1.button1,Continuar
+EventTip1a.text,No final de cada fase de investigação, o grupo de Marcadores de Pessoa aumentará sempre em um. Assim, após a primeira jogada do marcador de mulher Cinza, o seu tabuleiro estaria parecido com este exemplo.
+EventTip1a.button1,Continuar
+EventTip1b.text,Após segundo movimento do Marcador de pessoa mulher cinza, seu tabuleiro pode estar parecido com este exemplo.
+EventTip1b.button1,Continuar
+EventTip1c.text,Continue em movimentando e adicionando Marcadores de Pessoa até que receba instruções para fazer o contrário ou parar. O grupo de Marcadores de pessoas segue as regras normais de movimento para monstros. Uma exceção importante é que o grupo de Marcadores de Pessoa não tem um valor de VIGOR e não pode executar um teste para destruir bloqueios.
+EventTip1c.button1,Continuar
+quest.synopsys,Atualização V1.5 - pequenas alterações com base em comentários da crítica.
