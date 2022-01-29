@@ -2,7 +2,7 @@ The app for this boardgame can be used on different platforms.
 
 If you are using a Windows Computer, download the app from this link and then run the “DH0452” application executable within the downloaded folder to begin playing:
 
-https://drive.google.com/drive/folders/1TxnfaooVYtfSkfv5sNhYDIuwuHiFp1-K?usp=sharing
+https://drive.google.com/drive/folders/16CjTtTvMxmPcsTzwBWs3vx0N2IOPCDrM?usp=sharing
 
 If you are using an Android tablet or smartphone, download the installer from this link and then tap the installer, titled “DH0452Installer”, to install the app onto your device. The installer will then create a separate app, also titled “DH0452.” Tap it to begin playing. Use this link to start the process: 
 
